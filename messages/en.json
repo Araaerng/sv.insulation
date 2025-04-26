@@ -1,0 +1,144 @@
+{
+  "nevbar": {
+    "contact": "Contact"
+  },
+  "menu": {
+    "home": "Home",
+    "product-service": "Product/Service",
+    "aluminum": "Aluminum",
+    "sandwich-panels": "Wall/Ceiling Sandwich Panel",
+    "door-clean-room": "Cleanroom Door/Cold Room Door",
+    "technical-information": "Technical Information",
+    "install-service": "Install/Service",
+    "contact": "Contact Us",
+    "menu-aluminum": {
+      "angle-l": "- L-Angle",
+      "angle-cover-revet": "- Concealed Rivet L-Angle, Concealed Rivet Curved Angle",
+      "u-cap": "- U-Cap, Corner Post",
+      "u-cap-cover-revet": "- Concealed Rivet U-Cap",
+      "beam": "- Beam for Ceiling Hanging",
+      "h": "- H, T, Concealed Rivet H, Concealed Rivet T",
+      "door-frame": "- Door Frame, Concealed Rivet Door Frame, Sliding Door Track, Dustproof Track, Box"
+    },
+    "menu-sandwich-panels": {
+      "EPS-Foam": "- EPS Foam",
+      "PU-Foam": "- PU Foam",
+      "PIR-Foam": "- PIR Foam",
+      "Rockwool": "- Rockwool"
+    },
+    "menu-door": {
+      "h-1": "- Cleanroom Door",
+      "h-2": "- Cold Room Door"
+    },
+    "menu-technical-information": {
+      "h-1": "- Cold Room Installation",
+      "h-2": "- Cleanroom Installation",
+      "h-3": "- Ceiling Hanging Point Installation",
+      "h-4": "- Ceiling Installation",
+      "h-5": "- Wall Installation"
+    },
+    "menu-install-service": {
+      "h-1": "- Clean Room",
+      "h-2": "- Cold Room",
+      "h-3": "- Production Line",
+      "h-4": "- Warehouse, Factory, Office, etc.",
+      "h-5": "- Aluminum Parts, Materials and Equipment"
+    }
+  },
+  "home": {
+    "desc-1": "- Design, manufacture, and sell aluminum profiles for cold rooms/cleanrooms",
+    "desc-2": "- Sell insulation panels (Sandwich Panel / Isowall) (EPS, PU, PIR, Rockwool)",
+    "desc-3": "- Cleanroom Doors / Cold Room Doors",
+    "desc-4": "- Provide installation, dismantling, extension, modification services",
+    "product-service": "Product/Service",
+    "aluminum": "Aluminum Profiles",
+    "eps": "EPS, PU, PIR, Rockwool",
+    "door-clean-room": "Cleanroom/Cold Room Doors",
+    "install-service": "Installation/Service"
+  },
+  "aluminum": {
+    "title": "Design, Manufacture, and Sell Aluminum Profiles",
+    "title-2": "Cold Room / Clean Room",
+    "desc": "Available in standard and concealed rivet types for GMP compliance. Anodized surface treatment, white powder coating. 6063-T5 grade material, corrosion-resistant, factory-direct price for contractors.",
+    "aluminum": "Aluminum",
+    "head-1": "L-Angle",
+    "head-2": "Concealed Rivet L-Angle, Concealed Rivet Curved Angle",
+    "head-3": "U-Cap, Corner Post",
+    "head-4": "Concealed Rivet U-Cap",
+    "head-5": "Beam for Ceiling Hanging",
+    "head-6": "H, T, Concealed Rivet H, Concealed Rivet T",
+    "head-7": "Door Frame, Concealed Rivet Door Frame, Sliding Door Track, Dustproof Track, Box"
+  },
+  "sandwich-panels": {
+    "title": "Sell Sandwich Panel/Isowall for Cold Room/Clean Room",
+    "desc": "We are specialists in design, installation, dismantling, extension, and modification of cold room and cleanroom walls with over 25 years of experience. Free consultation available.",
+    "paragraph-1": "Today, Sandwich Panels are widely accepted and used according to consumer needs. They consist of an insulation core with two steel sheets coated for rust prevention and color finishing.",
+    "paragraph-2": "Applications for insulation panels include:",
+    "cold_room": "Cold Room",
+    "clean_room": "Clean Room",
+    "warehouse": "Warehouse",
+    "factories": "Factories",
+    "test_room": "Test and Laboratory Rooms",
+    "operating_room": "Operating Room",
+    "supermarket": "Supermarkets, Convenience Stores",
+    "office": "Office, Office Containers",
+    "drying_room": "Drying Room, Controlled Environment Room",
+    "animal_housing": "Animal Housing",
+    "mushroom_farm": "Mushroom Farm",
+    "benefit": "Advantages of Insulation Panel",
+    "benefit-desc": "Control and reduce heat transfer, retain cool air, save air conditioning energy. Various insulation materials and thicknesses are available according to application. Lightweight yet strong, easy to transport and install, quick dismantling, reduced structural needs, rust-proof and beautifully finished surface, clean and hygienic, acid and alkali resistant, bacteria-resistant, saves time, reduces costs, manpower, and materials, with a long service life.",
+    "form-type-1": "Expanded Polystyrene Foam (EPS Foam)",
+    "form-type-1-desc": "Low cost, lightweight, fire retardant, CFC-free, available in various densities. Thermal conductivity (K-value) 0.033~0.02 W/mk. Downsides include higher water absorption and condensation compared to PU and PIR.",
+    "form-type-2": "Polyurethane Foam (PU Foam)",
+    "form-type-2-desc": "Fine, dense foam, durable, fire retardant, CFC-free. Excellent thermal insulation, low water absorption, over 20 years lifespan. Requires thinner material compared to EPS. Easy and quick installation. Downside: lower fire and heat resistance than PIR.",
+    "form-type-3": "Polyisocyanurate Foam (PIR Foam)",
+    "form-type-3-desc": "Fine, dense foam, durable, fire retardant, CFC-free. Excellent thermal insulation, low water absorption, over 20 years lifespan. Requires thinner material compared to EPS. Easy and quick installation. Superior fire resistance and low smoke emission. Downside: higher cost than PU Foam.",
+    "form-type-4": "Rockwool Insulated Panel",
+    "form-type-4-desc": "For high fire-risk areas, fireproof, best heat resistance, sound absorption of 28–33 dB. Not suitable for rooms below 10°C. Downside: unsuitable for cold storage and not waterproof.",
+    "thick": "Panel Thickness"
+  },
+  "door": {
+    "title": "Cleanroom Door",
+    "title-2": "Cold Room",
+    "desc": "Custom designed and manufactured according to specifications and application requirements.",
+    "head-1": "Door Panel (Clean Room)",
+    "head-2": "Insulated Door Panel (Cold Room)",
+    "clean-room-door-1": "Manual Single Swing Door",
+    "clean-room-door-2": "Manual Double Swing Door",
+    "clean-room-door-3": "Removable Panel",
+    "clean-room-door-4": "Manual Single Sliding Door",
+    "clean-room-door-5": "Auto Single Sliding Door",
+    "cold-room-door-1": "Manual Single Swing Door",
+    "cold-room-door-2": "Manual Double Swing Door",
+    "cold-room-door-3": "Manual Single Sliding Door",
+    "cold-room-door-4": "Auto Single Sliding Door",
+    "cold-room-door-5": "Auto Double Swing Door"
+  },
+  "technical-information": {
+    "title": "Technical Information",
+    "head-1": "Installation Details for Cold Room",
+    "head-2": "Installation Details for Clean Room",
+    "head-3": "Installation Details for Ceiling Hanging Point",
+    "head-4": "Installation Details for Ceiling",
+    "head-5": "Installation Details for Wall"
+  },
+  "install-service": {
+    "title": "Installation & Service",
+    "head-1": "Clean Room",
+    "head-2": "Cold Room",
+    "head-3": "Production Line",
+    "head-4": "Warehouse, Factory, Office, Other",
+    "head-5": "Aluminum Parts & Materials"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "S.V. Insulation Co., Ltd.",
+    "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560"
+  },
+  "footer": {
+    "title": "Contact Us",
+    "name": "SV.Insutation Co.,Ltd.",
+    "time": "Mon. - Sat. 8:00 - 17:00",
+    "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560"
+  } 
+}
