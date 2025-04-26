@@ -267,7 +267,7 @@ export const aluminum: AluminumItem[] = [
   {
     type: 5,
     name: 'บีม 2หัว 140มิล/AL.Beam Lip 140mm.',
-    size: '70mm.x140mm.xt3mm.',
+    size: '60mm.x140mm.xt3mm.',
     dwg_no: "SF-0005",
     img: "37",
   },
