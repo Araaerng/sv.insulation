@@ -50,7 +50,7 @@ export default function ContactPage() {
               </div>
               <div className="flex items-center gap-4 ">
                 <Image src="/mail.png" className="h-10 w-auto" alt="mail" width={28} height={28} />
-                <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap dark:text-white">Sv.Insulation2015@gmail.com</a>
+                <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap dark:text-white">SV.Insulation2015@gmail.com</a>
               </div>
               <div className="flex items-center gap-4 ">
                 <Image src="/facebook.png" className="h-10 w-auto rounded-sm" alt="facebook" width={28} height={28} />
