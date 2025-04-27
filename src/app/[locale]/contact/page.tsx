@@ -35,7 +35,7 @@ export default function ContactPage() {
             <h1 className="text-md md:text-xl">
               {t('address')}
             </h1>
-            <div className='flex flex-col gap-5 mt-6 text-lg md:text-2xl'>
+            <div className='flex flex-col gap-5 mt-6 text-lg'>
               <div className="flex items-center gap-4 ">
                 <Image src="/phone.png" className="h-10 w-auto" alt="phone" width={28} height={28} />
                 <div>
@@ -65,7 +65,7 @@ export default function ContactPage() {
           <div className="w-full md:w-[50%]">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d547.2317808484677!2d100.84431544566449!3d13.561624634829013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sth!2sth!4v1745507860612!5m2!1sth!2sth"
-              className="w-full h-[450px] md:h-[600px] 2xl:h-[700px] object-cover"
+              className="w-full h-[450px] md:h-[500px] object-cover"
               allowFullScreen={true}
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
