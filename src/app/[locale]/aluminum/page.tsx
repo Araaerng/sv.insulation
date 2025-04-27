@@ -8,6 +8,12 @@ import 'react-photo-view/dist/react-photo-view.css';
 
 export default function AluminumPage() {
   const t = useTranslations('aluminum');
+  const handleDownload = () => {
+    const link = document.createElement("a");
+    link.href = "/Catalog AL.Parts (SV.Insulation).pdf";
+    link.download = "Catalog AL.Parts (SV.Insulation).pdf";
+    link.click();
+  };
 
   return (
     <div className="p-0 ">
@@ -215,6 +221,14 @@ export default function AluminumPage() {
               </div>
             ))}
           </PhotoProvider>
+        </div>
+        <div className='w-full mb-10 flex justify-center'>
+          <button
+            onClick={handleDownload}
+            className="px-4 py-2 bg-[#99cc00] text-black text-xl rounded hover:bg-[#88b300]"
+          >
+            📄 ดาวน์โหลด Catalog
+          </button>
         </div>
       </div>
     </div>
