@@ -36,7 +36,7 @@ export default function Footer() {
             </div>
             <div className="flex gap-2">
               <Image src="/mail.png" className="h-6" alt="mail" width={28} height={28} />
-              <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap dark:text-white">sv.insulation2015@gmail.com</a>
+              <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap dark:text-white">SV.Insulation2015@gmail.com</a>
             </div>
           </div>
           <div className="flex flex-col gap-4">
@@ -46,7 +46,7 @@ export default function Footer() {
             </div>
             <div className="flex gap-2">
               <Image src="/line.png" className="" alt="line" width={28} height={28} />
-              <a href="https://line.me/ti/p/~sv.insulation" target="_blank" className="hover:underline whitespace-nowrap dark:text-white">sv.insulation</a>
+              <a href="https://line.me/ti/p/~sv.insulation" target="_blank" className="hover:underline whitespace-nowrap dark:text-white">SV.Insulation</a>
             </div>
           </div>
           <div className="w-full sm:w-auto md:w-[50%] lg:w-auto flex justify-center">

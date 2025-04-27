@@ -47,11 +47,11 @@ export default function Navbar() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Image src="/mail.png" alt="mail" width={32} height={32} />
-                  <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap">sv.insulation2015@gmail.com</a>
+                  <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap">SV.Insulation2015@gmail.com</a>
                 </div>
                 <div className="flex items-center gap-2">
                   <Image src="/line.png" alt="line" width={32} height={32} />
-                  <a href="https://line.me/ti/p/~sv.insulation" className="hover:underline whitespace-nowrap">sv.insulation</a>
+                  <a href="https://line.me/ti/p/~sv.insulation" className="hover:underline whitespace-nowrap">SV.Insulation</a>
                 </div>
               </div>
             </div>

@@ -50,7 +50,7 @@ export default function ContactPage() {
               </div>
               <div className="flex items-center gap-4 ">
                 <Image src="/mail.png" className="h-10 w-auto" alt="mail" width={28} height={28} />
-                <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap dark:text-white">sv.insulation2015@gmail.com</a>
+                <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap dark:text-white">Sv.Insulation2015@gmail.com</a>
               </div>
               <div className="flex items-center gap-4 ">
                 <Image src="/facebook.png" className="h-10 w-auto rounded-sm" alt="facebook" width={28} height={28} />
@@ -58,7 +58,7 @@ export default function ContactPage() {
               </div>
               <div className="flex gap-4">
                 <Image src="/line.png" className="h-10 w-auto" alt="line" width={28} height={28} />
-                <a href="https://line.me/ti/p/~sv.insulation" target="_blank" className="hover:underline whitespace-nowrap dark:text-white">sv.insulation</a>
+                <a href="https://line.me/ti/p/~sv.insulation" target="_blank" className="hover:underline whitespace-nowrap dark:text-white">SV.Insulation</a>
               </div>
             </div>
           </div>
