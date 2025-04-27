@@ -13,13 +13,13 @@
     "contact": "Contact Us",
     "download": "- 📄Download Catalog",
     "menu-aluminum": {
-      "angle-l": "- L-Angle",
-      "angle-cover-revet": "- Concealed Rivet L-Angle, Concealed Rivet Curved Angle",
-      "u-cap": "- U-Cap, Corner Post",
-      "u-cap-cover-revet": "- Concealed Rivet U-Cap",
-      "beam": "- Beam for Ceiling Hanging",
-      "h": "- H, T, Concealed Rivet H, Concealed Rivet T",
-      "door-frame": "- Door Frame, Concealed Rivet Door Frame, Sliding Door Track, Dustproof Track, Box"
+      "angle-l": "- AL.Angle (L)",
+      "angle-cover-revet": "- AL.Angle Cover Rivet, AL.Cover Rivet",
+      "u-cap": "- AL.U-Cap, AL.Corner Post",
+      "u-cap-cover-revet": "- AL.U-Cap Cover Rivet",
+      "beam": "- AL.Beam for Ceiling Hanging",
+      "h": "- AL.H, AL.T, AL.H Cover Rivet, AL.T Cover Rivet",
+      "door-frame": "- AL.Door Frame, AL.Door Frame Cover Rivet, AL.Sliding Door Rail, AL.Dustproof Rail, AL.Pipe"
     },
     "menu-sandwich-panels": {
       "EPS-Foam": "- EPS Foam",
@@ -62,13 +62,13 @@
     "title-2": "Cold Room / Clean Room",
     "desc": "Available in standard and concealed rivet types for GMP compliance. Anodized surface treatment, white powder coating. 6063-T5 grade material, corrosion-resistant, factory-direct price for contractors.",
     "aluminum": "Aluminum",
-    "head-1": "L-Angle",
-    "head-2": "Concealed Rivet L-Angle, Concealed Rivet Curved Angle",
-    "head-3": "U-Cap, Corner Post",
-    "head-4": "Concealed Rivet U-Cap",
-    "head-5": "Beam for Ceiling Hanging",
-    "head-6": "H, T, Concealed Rivet H, Concealed Rivet T",
-    "head-7": "Door Frame, Concealed Rivet Door Frame, Sliding Door Track, Dustproof Track, Box"
+    "head-1": "AL.Angle (L)",
+    "head-2": "AL.Angle Cover Rivet, AL.Cover Rivet",
+    "head-3": "AL.U-Cap, AL.Corner Post",
+    "head-4": "AL.U-Cap Cover Rivet",
+    "head-5": "AL.Beam for Ceiling Hanging",
+    "head-6": "AL.H, AL.T, AL.H Cover Rivet, AL.T Cover Rivet",
+    "head-7": "AL.Door Frame, AL.Door Frame Cover Rivet, AL.Sliding Door Rail, AL.Dustproof Rail, AL.Pipe"
   },
   "sandwich-panels": {
     "title": "Sell Sandwich Panel/Isowall for Cold Room/Clean Room",
