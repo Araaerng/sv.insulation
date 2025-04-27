@@ -144,6 +144,12 @@ const components6: { title: string; href: string; }[] = [
 
 export function NavigationMenuDemo() {
   const t = useTranslations('menu');
+  const handleDownload = () => {
+    const link = document.createElement("a");
+    link.href = "/Catalog AL.Parts (SV.Insulation).pdf";
+    link.download = "Catalog AL.Parts (SV.Insulation).pdf";
+    link.click();
+  };
 
   return (
     <div className="w-full flex justify-between px-4">
@@ -189,6 +195,10 @@ export function NavigationMenuDemo() {
                     href={component.href}
                   />
                 ))}
+                <ListItem
+                  title={t('download')}
+                  onClick={handleDownload}
+                />
               </ul>
             </NavigationMenuContent>
           </NavigationMenuItem>

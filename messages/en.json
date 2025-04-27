@@ -11,6 +11,7 @@
     "technical-information": "Technical Information",
     "install-service": "Install/Service",
     "contact": "Contact Us",
+    "download": "- 📄Download Catalog",
     "menu-aluminum": {
       "angle-l": "- L-Angle",
       "angle-cover-revet": "- Concealed Rivet L-Angle, Concealed Rivet Curved Angle",
@@ -133,12 +134,14 @@
   "contact": {
     "title": "Contact Us",
     "name": "S.V. Insulation Co., Ltd.",
-    "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560"
+    "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560",
+    "office": "Office",
+    "warehouse": "Warehouse"
   },
   "footer": {
     "title": "Contact Us",
     "name": "SV.Insutation Co.,Ltd.",
     "time": "Mon. - Sat. 8:00 - 17:00",
     "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560"
-  } 
+  }
 }
