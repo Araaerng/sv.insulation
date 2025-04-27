@@ -14,7 +14,7 @@
     "download": "- 📄Download Catalog",
     "menu-aluminum": {
       "angle-l": "- AL.Angle (L)",
-      "angle-cover-revet": "- AL.Angle Cover Rivet, AL.Cover Rivet",
+      "angle-cover-revet": "- AL.Angle Cover Rivet, AL.Curve Cover Rivet",
       "u-cap": "- AL.U-Cap, AL.Corner Post",
       "u-cap-cover-revet": "- AL.U-Cap Cover Rivet",
       "beam": "- AL.Beam for Ceiling Hanging",
@@ -63,7 +63,7 @@
     "desc": "Available in standard and concealed rivet types for GMP compliance. Anodized surface treatment, white powder coating. 6063-T5 grade material, corrosion-resistant, factory-direct price for contractors.",
     "aluminum": "Aluminum",
     "head-1": "AL.Angle (L)",
-    "head-2": "AL.Angle Cover Rivet, AL.Cover Rivet",
+    "head-2": "AL.Angle Cover Rivet, AL.Curve Cover Rivet",
     "head-3": "AL.U-Cap, AL.Corner Post",
     "head-4": "AL.U-Cap Cover Rivet",
     "head-5": "AL.Beam for Ceiling Hanging",
@@ -133,13 +133,12 @@
   },
   "contact": {
     "title": "Contact Us",
-    "name": "S.V. Insulation Co., Ltd.",
+    "name": "SV. Insulation Co., Ltd.",
     "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560",
     "office": "Office",
     "warehouse": "Warehouse"
   },
   "footer": {
-    "title": "Contact Us",
     "name": "SV.Insutation Co.,Ltd.",
     "time": "Mon. - Sat. 8:00 - 17:00",
     "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560"
