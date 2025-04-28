@@ -74,6 +74,10 @@ const data = {
           title: "menu-aluminum.door-frame",
           url: "/aluminum#section-7",
         },
+        {
+          title: "download",
+          url: "",
+        },
       ],
     },
     {

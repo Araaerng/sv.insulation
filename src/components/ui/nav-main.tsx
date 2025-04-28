@@ -35,7 +35,12 @@ export function NavMain({
   }[]
 }) {
   const t = useTranslations('menu');
-  
+  const handleDownload = () => {
+    const link = document.createElement("a");
+    link.href = "/Catalog AL.Parts (SV.Insulation).pdf";
+    link.download = "Catalog AL.Parts (SV.Insulation).pdf";
+    link.click();
+  };
 
   return (
     <SidebarGroup>
@@ -58,12 +63,18 @@ export function NavMain({
                 className="overflow-hidden data-[state=open]:animate-slideDown data-[state=closed]:animate-slideUp"
               >
                 <SidebarMenuSub>
-                  {item.items?.map((subItem) => (
+                  {item.items?.map((subItem) => subItem.title !== 'download' ? (
                     <SidebarMenuSubItem key={t(subItem.title)}>
                       <SidebarMenuSubButton asChild>
                         <a href={subItem.url}>
                           <span>{item.title == 'product-service' ? "- " + t(subItem.title) : t(subItem.title)}</span>
                         </a>
+                      </SidebarMenuSubButton>
+                    </SidebarMenuSubItem>
+                  ) : (
+                    <SidebarMenuSubItem key={t(subItem.title)}>
+                      <SidebarMenuSubButton onClick={handleDownload}>
+                        <span>{t(subItem.title)}</span>
                       </SidebarMenuSubButton>
                     </SidebarMenuSubItem>
                   ))}
@@ -79,6 +90,6 @@ export function NavMain({
           </Link>
         ))}
       </SidebarMenu>
-    </SidebarGroup>
+    </SidebarGroup >
   )
 }
