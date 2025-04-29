@@ -24,8 +24,7 @@ export default function AluminumPage() {
         <div className="absolute inset-0 flex items-end justify-center mb-4 mx-2 md:mx-[28%]">
           <div className="bg-gradient-to-b from-[#D6E4FF] to-[#A3C4FF] rounded-xl shadow-lg px-6 py-4 space-y-2 text-black">
             <h1 className="text-xl md:text-3xl font-bold md:whitespace-nowrap">
-              {t('title')}<br />
-              {t('title-2')}
+              {t('title') + ' ' + t('title-2')}
             </h1>
             <span className="text-lg md:text-xl">
               {t('desc')}

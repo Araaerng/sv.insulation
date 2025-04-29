@@ -18,7 +18,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-col gap-4">
-            <div className="flex gap-2">
+            <div className="flex items-center gap-2">
               <Image src="/phone.png" className="h-6" alt="phone" width={28} height={28} />
               <div>
                 <a href="tel:020778310" className="hover:underline whitespace-nowrap dark:text-white">02-077-8310</a>
@@ -30,21 +30,21 @@ export default function Footer() {
                 <a href="tel:0812579700" className="hover:underline whitespace-nowrap dark:text-white">081-2579-700</a>
               </div>
             </div>
-            <div className="flex gap-2">
-              <Image src="/clock.png" className="h-7" alt="clock" width={28} height={28} />
+            <div className="flex items-end gap-2">
+              <Image src="/clock.png" className="" alt="clock" width={28} height={28} />
               <a className="whitespace-nowrap dark:text-white">{t('time')}</a>
             </div>
-            <div className="flex gap-2">
-              <Image src="/mail.png" className="h-6" alt="mail" width={28} height={28} />
+            <div className="flex items-end gap-2">
+              <Image src="/mail.png" className="" alt="mail" width={28} height={28} />
               <a href="mailto:sv.insulation2015@gmail.com" className="hover:underline whitespace-nowrap dark:text-white">SV.Insulation2015@gmail.com</a>
             </div>
           </div>
-          <div className="flex flex-col gap-4">
-            <div className="flex gap-2">
-              <Image src="/facebook.png" className="h-6 rounded-sm" alt="facebook" width={28} height={28} />
+          <div className="flex flex-col  gap-4">
+            <div className="flex items-end gap-2">
+              <Image src="/facebook.png" className=" rounded-sm" alt="facebook" width={28} height={28} />
               <a href="https://web.facebook.com/profile.php?id=100062105632634" target="_blank" className="hover:underline whitespace-nowrap dark:text-white">SV.Insulation Co.,Ltd.</a>
             </div>
-            <div className="flex gap-2">
+            <div className="flex items-end gap-2">
               <Image src="/line.png" className="" alt="line" width={28} height={28} />
               <a href="https://line.me/ti/p/~sv.insulation" target="_blank" className="hover:underline whitespace-nowrap dark:text-white">SV.Insulation</a>
             </div>

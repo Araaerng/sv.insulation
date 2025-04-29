@@ -130,27 +130,28 @@ export default function Home() {
             </div>
           </Carousel>
         )}
-        <div className="absolute inset-0 max-w-screen-2xl flex items-start m-4">
-          <div className="bg-[#99cc00] w-full lg:w-[70%] rounded-3xl shadow-lg p-4 md:p-10 md:space-y-2 text-black text-md sm:text-lg md:text-xl lg:text-3xl">
-            <h1 className=" font-bold">
-              {t('desc-1')}
-            </h1>
-            <h1 className="font-bold">
-              {t('desc-2')}
-            </h1>
-            <h1 className="font-bold">
-              {t('desc-3')}
-            </h1>
-            <h1 className="font-bold">
-              {t('desc-4')}
-            </h1>
-
-          </div>
-        </div>
       </div>
 
       <div className='max-w-screen-2xl items-center justify-between mx-auto p-4'>
-        <div className='my-4 p-2 font-semibold text-2xl bg-[#99cc00] w-[200px] rounded-lg text-center'>{t('product-service')}</div>
+        <div className=' my-4 p-4 font-semibold bg-[#99cc00] rounded-lg'>
+          <h1 className="text-2xl font-bold">
+            {t('product-service')}
+          </h1>
+          <ul className='md:ml-4 flex flex-col gap-2 text-md md:text-xl'>
+            <h2 className="font-bold">
+              {t('desc-1')}
+            </h2>
+            <h2 className="font-bold">
+              {t('desc-2')}
+            </h2>
+            <h2 className="font-bold">
+              {t('desc-3')}
+            </h2>
+            <h2 className="font-bold">
+              {t('desc-4')}
+            </h2>
+          </ul>
+        </div>
         <div className='grid sm:grid-cols-2 md:grid-cols-4 gap-4'>
           {product.map((p, i) => (
             <Link href={p.href} key={i}>
