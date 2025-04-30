@@ -36,19 +36,19 @@ export default function SandwichPanelsPage() {
     <div className="p-0">
       <div className="relative w-full">
         <Image
-          className="w-full h-[50vh] object-cover"
+          className="w-full h-[60vh] md:h-[50vh] object-cover"
           src="/banner-sandwich-panels.png"
           width={512}
           height={512}
           alt="banner-sandwich-panels"
           priority
         />
-        <div className="absolute inset-0 flex items-center justify-center mx-[10%] md:mx-[20%]">
-          <div className="bg-[#DDD9C3] text-black rounded-xl shadow-lg px-6 py-4 space-y-2">
-            <h1 className=" text-xl md:text-3xl font-bold">
+        <div className="absolute inset-0 flex items-start justify-center mt-2 mx-[5%] md:mx-[20%]">
+          <div className="bg-[#DDD9C3] text-black rounded-xl shadow-lg px-4 md:px-6 py-4 space-y-2">
+            <h1 className=" text-md md:text-3xl font-bold">
               {t('title')}
             </h1>
-            <span className=" text-lg md:text-xl">
+            <span className=" text-sx md:text-xl">
               {t('desc')}
             </span>
           </div>
