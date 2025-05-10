@@ -65,7 +65,7 @@ export default function Home() {
         {!isCarouselLoaded ? (
           <div>
             <Image
-              className="w-full h-[50vh] lg:h-[70vh] object-cover 2xl:h-[50vh]"
+              className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
               src="images/banner-1.png"
               width={512}
               height={512}
@@ -90,7 +90,7 @@ export default function Home() {
           >
             <div>
               <Image
-                className="w-full h-[50vh] lg:h-[70vh] object-cover 2xl:h-[50vh]"
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
                 src="images/banner-1.png"
                 width={512}
                 height={512}
@@ -100,7 +100,7 @@ export default function Home() {
             </div>
             <div>
               <Image
-                className="w-full h-[50vh] lg:h-[70vh] object-cover 2xl:h-[50vh]"
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
                 src="images/banner-2.png"
                 width={512}
                 height={512}
@@ -110,21 +110,61 @@ export default function Home() {
             </div>
             <div>
               <Image
-                className="w-full h-[50vh] lg:h-[70vh] object-cover 2xl:h-[50vh]"
-                src="images/banner-3.png"
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
+                src="images/banner-4.png"
                 width={512}
                 height={512}
-                alt="banner-3"
+                alt="banner-4"
                 priority
               />
             </div>
             <div>
               <Image
-                className="w-full h-[50vh] lg:h-[70vh] object-cover 2xl:h-[50vh]"
-                src="images/banner-4.png"
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
+                src="images/banner-5.jpg"
                 width={512}
                 height={512}
-                alt="banner-4"
+                alt="banner-5"
+                priority
+              />
+            </div>
+            <div>
+              <Image
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
+                src="images/banner-6.jpg"
+                width={512}
+                height={512}
+                alt="banner-6"
+                priority
+              />
+            </div>
+            <div>
+              <Image
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
+                src="images/banner-7.jpg"
+                width={512}
+                height={512}
+                alt="banner-7"
+                priority
+              />
+            </div>
+            <div>
+              <Image
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
+                src="images/banner-8.jpg"
+                width={512}
+                height={512}
+                alt="banner-8"
+                priority
+              />
+            </div>
+            <div>
+              <Image
+                className="w-full h-[50vh] sm:h-[70vh] object-cover 2xl:h-[50vh]"
+                src="images/banner-9.jpg"
+                width={512}
+                height={512}
+                alt="banner-9"
                 priority
               />
             </div>
