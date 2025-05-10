@@ -77,13 +77,13 @@ export default function ContactPage() {
           alt="banner-contact"
           priority
         />
-        <div className="absolute inset-0 flex items-center justify-center mx-[20%]">
+        {/* <div className="absolute inset-0 flex items-center justify-center mx-[20%]">
           <div className="bg-red-700 rounded-xl shadow-lg px-10 py-8 space-y-2">
             <h1 className="text-white text-3xl md:text-5xl font-bold">
               {t('title')}
             </h1>
           </div>
-        </div>
+        </div> */}
       </div>
       <div className='max-w-screen-2xl flex flex-col items-center justify-center mx-auto my-10 p-4'>
         <div className='w-full flex flex-col items-center justify-center gap-10'>
