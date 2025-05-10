@@ -136,7 +136,20 @@
     "name": "SV.Insulation Co., Ltd.",
     "address": "223/427 Moo 2, Bang Phliang Subdistrict, Bang Bo District, Samut Prakan 10560",
     "office": "Office",
-    "warehouse": "Warehouse"
+    "warehouse": "Warehouse",
+    "name-form": "Name",
+    "email": "Email",
+    "phone": "Phone number",
+    "message": "Message",
+    "send-message": "Send Message",
+    "please-enter-name": "Please enter name.",
+    "please-enter-email": "Please enter email.",
+    "please-enter-phone": "Please enter phone.",
+    "please-enter-message": "Please enter message.",
+    "sending": "Sending...",
+    "success": "Success ✅",
+    "not-success": "Failed to send ❌",
+    "error": "An error occurred ❌"
   },
   "footer": {
     "name": "SV.Insutation Co.,Ltd.",
